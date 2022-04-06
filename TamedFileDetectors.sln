@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FileDetector", "FileDetector\FileDetector.vbproj", "{674D0237-18EB-4143-A16C-B673E00EA28B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "_TestConsoleApp", "TestConsoleApp\_TestConsoleApp.vbproj", "{1C71BE78-AC78-46D5-B8E1-D703BBAC9FA9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "QuickStart", "QuickStart\QuickStart.vbproj", "{1909465F-FDCB-4CED-BB69-C2FF4E3EC184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{674D0237-18EB-4143-A16C-B673E00EA28B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{674D0237-18EB-4143-A16C-B673E00EA28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{674D0237-18EB-4143-A16C-B673E00EA28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{674D0237-18EB-4143-A16C-B673E00EA28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C71BE78-AC78-46D5-B8E1-D703BBAC9FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C71BE78-AC78-46D5-B8E1-D703BBAC9FA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C71BE78-AC78-46D5-B8E1-D703BBAC9FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C71BE78-AC78-46D5-B8E1-D703BBAC9FA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1909465F-FDCB-4CED-BB69-C2FF4E3EC184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1909465F-FDCB-4CED-BB69-C2FF4E3EC184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1909465F-FDCB-4CED-BB69-C2FF4E3EC184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1909465F-FDCB-4CED-BB69-C2FF4E3EC184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://leanwork.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = FileDetector\\FileDetector.vbproj
+		SccProjectName1 = FileDetector
+		SccLocalPath1 = FileDetector
+		SccProjectUniqueName2 = TestConsoleApp\\_TestConsoleApp.vbproj
+		SccProjectName2 = TestConsoleApp
+		SccLocalPath2 = TestConsoleApp
+		SccProjectUniqueName3 = QuickStart\\QuickStart.vbproj
+		SccProjectName3 = QuickStart
+		SccLocalPath3 = QuickStart
+	EndGlobalSection
+EndGlobal
